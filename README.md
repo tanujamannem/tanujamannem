@@ -11,6 +11,6 @@ Welcome to my GitHub profile! I enjoy turning data into meaningful insights and 
 - Data Cleaning & Automation  
 
 🌟 **Current Goal**  
-Preparing for Data Analyst roles (Target: 12 LPA)
+Preparing for Data Analyst roles 
 
 Thanks for visiting! 😊
