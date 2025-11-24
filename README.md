@@ -1,16 +1,9 @@
-# Hi 👋, I'm Tanuja
+<h1 align="center">
+  Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px">, I'm Tanuja
+</h1>
 
-### Data Analyst | SQL | Python | Power BI | Tableau
+<h3 align="center">Exploring the Power of Data | Turning Information into Actionable Insights</h3>
 
-Welcome to my GitHub profile! I enjoy turning data into meaningful insights and creating dashboards that solve real problems.
+---
 
-🌟 **Skills**  
-- Python, SQL  
-- Power BI, Tableau  
-- Excel, Statistics  
-- Data Cleaning & Automation  
-
-🌟 **Current Goal**  
-Preparing for Data Analyst roles 
-
-Thanks for visiting! 😊
+As a **data-driven problem solver**, I specialize in transforming raw data into clear, reliable insights that support strategic decision-making. With a strong foundation in **machine learning**, **data visualization**, and analytical modeling, I use tools like **Python**, **SQL**, and **Power BI** to extract meaningful information and ensure accuracy in results. My goal is to convert complex datasets into simple, actionable solutions that drive success and innovation.
