@@ -11,54 +11,35 @@ As a **data-driven problem solver**, I specialize in transforming raw data into 
 ## 🌟 About Me
 <img align="right" alt="Hi GIF" width="300" src="https://media.tenor.com/CigpzapemsoAAAAj/hi-robot.gif" />
 
----
-
 
 ### 🎓 Education
 
-- M.Tech in ECE (VLSI & ES) | CVR College of Engineering, JNTU Hyderabad  
-- B.Tech in ECE | Vignan Institute of Technology & Science, JNTU Hyderabad  
-
----
+- **Certification in Data Science** | Master Data Science IIT-M Certified Advanced Programmer | GUVI GEEKS NETWORKS IIT-MADRAS
+- **M.Tech in ECE (VLSI & ES)** | CR College of Engineering | Acharya Nagarjuna University
+- **B.Tech in ECE** | ESWAR College of Engineering | JNTU Kakinada 
 
 ### 🏆 Certifications
 
-- Python, Pandas, NumPy  
-- SQL, MySQL, DBMS  
-- Power BI, Tableau, Excel  
-- Machine Learning & NLP  
-- Natural Language Processing (NLTK, SpaCy)  
-- Advanced Data Visualization Tools  
-
----
-
+- **Python, Pandas, NumPy**  
+- **SQL, MySQL, DBMS**  
+- **Power BI, Tableau, Excel**  
+- **Machine Learning & NLP**  
+- **Natural Language Processing (NLTK)**  
+- **Advanced Data Visualization Tools**
+  
 ### 💡 Core Competencies
 
 **Data Analysis & Visualization:**  
-Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly), Power BI, Tableau, MS Excel  
+Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly), Power BI, Tableau, MS Excel
 
 **Machine Learning:**  
-Supervised & Unsupervised Learning, Time-Series Forecasting, Feature Engineering  
+Supervised & Unsupervised Learning, Feature Engineering, Model Evaluation, Regression & Classification, Clustering
 
-**Deep Learning & NLP:**  
-Neural Networks, CNNs, RNNs, Transformers  
+**NLP:**    
 Text Classification, Sentiment Analysis, Named Entity Recognition (NER)  
 
-**Projects:**  
-- Customer Churn Prediction  
-- Movie Recommendation System  
-- Twitter Sentiment Analysis  
-
-**Database & Data Engineering:**  
-SQL, MySQL, DBMS, Data Cleaning, ETL Pipelines  
-
-**Web App Development:**  
-Streamlit, Flask – Building and deploying interactive ML/data apps  
-
-**Cloud & MLOps:**  
-Deploying AI/ML Models on AWS & Azure, Model Monitoring, API Integrations  
-
----
+**Database:**  
+SQL, MySQL, DBMS, Data Cleaning  
 
 ### 🛠️ Data Science & Visualization Tools
 
