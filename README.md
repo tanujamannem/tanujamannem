@@ -71,7 +71,7 @@ SQL, MySQL, DBMS, Data Cleaning
 
 ## 🚀 Projects
 
-### [1. Customer Conversion Prediction]
+### [[1. Customer Conversion Prediction](https://github.com/tanujamannem/Customer-Conversion-Prediction)]
 • Developed a **machine learning pipeline** to predict client subscriptions to insurance plans, helping improve conversion rates and optimize marketing strategies.  
 • Performed **exploratory data analysis (EDA)**, data cleaning, and feature engineering to extract meaningful insights and prepare the dataset for modeling.  
 • Built and compared multiple machine learning models including **Random Forest**, **Logistic Regression**, **XGBoost**, and **K-Nearest Neighbors**, optimizing hyperparameters for best performance.  
