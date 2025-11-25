@@ -130,8 +130,13 @@ SQL, MySQL, DBMS, Data Cleaning
 • Generated **WordClouds** for authors to visualize frequent contributors.  
 • Extracted actionable insights about **popular books, genres, and market trends** on Amazon.  
 
-
-
+### 8. Titanic Dataset EDA 
+• Performed **Exploratory Data Analysis (EDA)** on Titanic passenger dataset  
+• Cleaned data: handled **missing values**, dropped irrelevant columns (`Name`, `Ticket`, `Cabin`)  
+• Converted data types for better analysis (`int`, `category`)  
+• Explored **categorical and numerical features** including Age, Fare, Pclass, Sex, SibSp, Parch, Embarked  
+• Visualized survival patterns using **bar plots, scatter plots, count plots, boxplots, and histograms**  
+• Analyzed survival trends based on **Passenger Class, Gender, Age, Family size, and Fare**  
 
 
 
