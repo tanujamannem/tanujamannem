@@ -112,7 +112,7 @@ SQL, MySQL, DBMS, Data Cleaning
 • Works effectively when images have a **blue background** and contain a mix of broken and unbroken grains without overlap.  
 • Delivers a complete end-to-end pipeline for **automated rice quality inspection**, improving efficiency and accuracy.
 
-### 6. Profanity Detection & Text Censorship Model
+### [6. Profanity Detection & Text Censorship Model](https://github.com/tanujamannem/Profanity_check/tree/main)
 • Detects and censors offensive words from text using **ML + NLP techniques**.  
 • Cleans raw sentences by removing **punctuations, emojis, numbers, and unwanted symbols**.  
 • Converts text into numerical features using **CountVectorizer** for model training.  
