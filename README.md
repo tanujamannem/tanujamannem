@@ -16,12 +16,14 @@ As a **data-driven problem solver**, I specialize in transforming raw data into 
 
 ### 🎓 Education
 
-- **Certification in Data Science** | Master Data Science IIT-M Certified Advanced Programmer | GUVI GEEKS NETWORKS IIT-MADRAS
+- **Master Data Science IIT-M Certified Advanced Programmer** | GUVI GEEKS NETWORKS IIT-MADRAS
 - **M.Tech in ECE (VLSI & ES)** | CR College of Engineering | Acharya Nagarjuna University
 - **B.Tech in ECE** | ESWAR College of Engineering | JNTU Kakinada 
 
 ### 🏆 Certifications
 
+- **Top 1% Performer – GUVI Metaverse Datathon 1.0**
+- **Certification in Data Science** | Master Data Science IIT-M Certified Advanced Programmer
 - **Python, Pandas, NumPy**  
 - **SQL, MySQL, DBMS**  
 - **Power BI, Tableau, Excel**  
