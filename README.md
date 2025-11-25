@@ -96,21 +96,31 @@ SQL, MySQL, DBMS, Data Cleaning
 
 ### [4. Twitter Tweet Extraction, Cleaning & Sentiment Analysis](https://github.com/tanujamannem/Twitter_Tweets_Extraction_and_Sentiment_Analysis)
 
-- Converts raw Twitter JSON data into a structured **Pandas DataFrame**, capturing tweet authors, text, and essential metadata.  
-- Cleans tweets by removing **URLs, hashtags, mentions, emojis, punctuation**, and stopwords, ensuring high-quality text for NLP processing.  
-- Extracts meaningful **noun phrases (key entities)** using TextBlob to identify topics and subjects discussed across tweets.  
-- Applies **VADER sentiment analysis** to compute polarity, positivity, negativity, and neutrality scores for each tweet.  
-- Classifies tweets into **Positive, Negative, or Neutral** categories based on sentiment scores and creates a final enriched dataset with cleaned text, entities, authors, and sentiment labels.  
-- Provides an end-to-end workflow that transforms noisy Twitter data into **actionable insights and sentiment intelligence**.
+• Converts raw Twitter JSON data into a structured **Pandas DataFrame**, capturing tweet authors, text, and essential metadata.  
+• Cleans tweets by removing **URLs, hashtags, mentions, emojis, punctuation**, and stopwords, ensuring high-quality text for NLP processing.  
+• Extracts meaningful **noun phrases (key entities)** using TextBlob to identify topics and subjects discussed across tweets.  
+• Applies **VADER sentiment analysis** to compute polarity, positivity, negativity, and neutrality scores for each tweet.  
+• Classifies tweets into **Positive, Negative, or Neutral** categories based on sentiment scores and creates a final enriched dataset with cleaned text, entities, authors, and sentiment labels.  
+• Provides an end-to-end workflow that transforms noisy Twitter data into **actionable insights and sentiment intelligence**.
 
-### 5. [Automated Rice Grain & Broken Grain Detection using OpenCV](https://github.com/tanujamannem/Total_RiceGrains_and_Broken_RiceGrains)
+### [5. Automated Rice Grain & Broken Grain Detection using OpenCV](https://github.com/tanujamannem/Total_RiceGrains_and_Broken_RiceGrains)
 
-- Uses **Computer Vision** and **OpenCV** to automatically count rice grains and identify broken grains from the input image.  
-- Performs essential **image pre-processing** steps such as grayscale conversion, thresholding, and morphological operations to clean noise.  
-- Applies the **Watershed Algorithm** to separate grains that touch each other, ensuring accurate grain detection.  
-- Utilizes **contour analysis** and **area-based thresholds** to classify grains as **whole** or **broken**.  
-- Works effectively when images have a **blue background** and contain a mix of broken and unbroken grains without overlap.  
-- Delivers a complete end-to-end pipeline for **automated rice quality inspection**, improving efficiency and accuracy.
+• Uses **Computer Vision** and **OpenCV** to automatically count rice grains and identify broken grains from the input image.  
+• Performs essential **image pre-processing** steps such as grayscale conversion, thresholding, and morphological operations to clean noise.  
+• Applies the **Watershed Algorithm** to separate grains that touch each other, ensuring accurate grain detection.  
+• Utilizes **contour analysis** and **area-based thresholds** to classify grains as **whole** or **broken**.  
+• Works effectively when images have a **blue background** and contain a mix of broken and unbroken grains without overlap.  
+• Delivers a complete end-to-end pipeline for **automated rice quality inspection**, improving efficiency and accuracy.
+
+### 6. Profanity Detection & Text Censorship Model
+• Detects and censors offensive words from text using **ML + NLP techniques**.  
+• Cleans raw sentences by removing **punctuations, emojis, numbers, and unwanted symbols**.  
+• Converts text into numerical features using **CountVectorizer** for model training.  
+• Trained a **Decision Tree Classifier** achieving strong metrics (**80% F1 Score**, **87% AUROC**).  
+• Uses **Better Profanity** library to replace detected bad words with `####`.  
+• End-to-end workflow: **data cleaning → feature extraction → model building → evaluation → profanity masking**.  
+• Processes large datasets efficiently and outputs safe, cleaned text suitable for real-world applications.
+
 
 
 
