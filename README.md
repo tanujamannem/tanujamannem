@@ -150,12 +150,24 @@ SQL, MySQL, DBMS, Data Cleaning
 ---
 
 ### 📫 Let's Connect
-[<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="30"/>](https://www.linkedin.com/in/your-linkedin)  
-[<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" alt="GitHub" width="30"/>](https://github.com/your-github)  
-[<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail" width="30"/>](mailto:your-email@gmail.com)  
 
-📞 **Contact:** +91 7731911927  
-🌍 **Location:** Bangalore, India  
+<p align="left">
+  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="30" height="30" style="fill:#0A66C2"/>
+  </a>
+  <a href="https://github.com/your-github" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" alt="GitHub" width="30" height="30" style="fill:#181717"/>
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail" width="30" height="30" style="fill:#D14836"/>
+  </a>
+</p>
+
+<p>
+  📞 +91 7731911927 | 🌍 Bangalore, India
+</p>
+
+  
 
 ---
 
