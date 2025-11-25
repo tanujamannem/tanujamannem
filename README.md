@@ -69,3 +69,17 @@ SQL, MySQL, DBMS, Data Cleaning
 
 ---
 
+## 🚀 Projects
+
+### [1. Customer Conversion Prediction]
+• Developed a **machine learning pipeline** to predict client subscriptions to insurance plans, helping improve conversion rates and optimize marketing strategies.  
+• Performed **exploratory data analysis (EDA)**, data cleaning, and feature engineering to extract meaningful insights and prepare the dataset for modeling.  
+• Built and compared multiple machine learning models including **Random Forest**, **Logistic Regression**, **XGBoost**, and **K-Nearest Neighbors**, optimizing hyperparameters for best performance.  
+• Evaluated models using Confusion Matrix, Accuracy, and ROC Score, selecting the most effective model to guide business decisions.  
+• Implemented the workflow in **Python** using Pandas, Matplotlib, Seaborn, and Google Colab for data manipulation, visualization, and collaborative development.  
+
+
+
+
+ 
+
