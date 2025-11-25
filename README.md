@@ -94,6 +94,17 @@ SQL, MySQL, DBMS, Data Cleaning
 • Trains and evaluates **regression models** (Linear Regression / Random Forest) to learn pricing patterns from the dataset.  
 • Delivers **accurate price predictions** along with insights into important factors affecting property prices.  
 
+### 4. Twitter Tweet Extraction, Cleaning & Sentiment Analysis
+
+- Converts raw Twitter JSON data into a structured **Pandas DataFrame**, capturing tweet authors, text, and essential metadata.  
+- Cleans tweets by removing **URLs, hashtags, mentions, emojis, punctuation**, and stopwords, ensuring high-quality text for NLP processing.  
+- Extracts meaningful **noun phrases (key entities)** using TextBlob to identify topics and subjects discussed across tweets.  
+- Applies **VADER sentiment analysis** to compute polarity, positivity, negativity, and neutrality scores for each tweet.  
+- Classifies tweets into **Positive, Negative, or Neutral** categories based on sentiment scores and creates a final enriched dataset with cleaned text, entities, authors, and sentiment labels.  
+- Provides an end-to-end workflow that transforms noisy Twitter data into **actionable insights and sentiment intelligence**.
+
+
+
 
 
  
