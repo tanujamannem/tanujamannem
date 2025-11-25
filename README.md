@@ -130,7 +130,7 @@ SQL, MySQL, DBMS, Data Cleaning
 • Generated **WordClouds** for authors to visualize frequent contributors.  
 • Extracted actionable insights about **popular books, genres, and market trends** on Amazon.  
 
-### 8. Titanic Dataset EDA 
+### [8. Titanic Dataset EDA](https://github.com/tanujamannem/Exploratory_Data_Analysis-on-Titanic_Dataset) 
 • Performed **Exploratory Data Analysis (EDA)** on Titanic passenger dataset  
 • Cleaned data: handled **missing values**, dropped irrelevant columns (`Name`, `Ticket`, `Cabin`)  
 • Converted data types for better analysis (`int`, `category`)  
