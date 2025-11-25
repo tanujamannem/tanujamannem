@@ -103,6 +103,14 @@ SQL, MySQL, DBMS, Data Cleaning
 - Classifies tweets into **Positive, Negative, or Neutral** categories based on sentiment scores and creates a final enriched dataset with cleaned text, entities, authors, and sentiment labels.  
 - Provides an end-to-end workflow that transforms noisy Twitter data into **actionable insights and sentiment intelligence**.
 
+### 5. Automated Rice Grain & Broken Grain Detection using OpenCV
+
+- Uses **Computer Vision** and **OpenCV** to automatically count rice grains and identify broken grains from the input image.  
+- Performs essential **image pre-processing** steps such as grayscale conversion, thresholding, and morphological operations to clean noise.  
+- Applies the **Watershed Algorithm** to separate grains that touch each other, ensuring accurate grain detection.  
+- Utilizes **contour analysis** and **area-based thresholds** to classify grains as **whole** or **broken**.  
+- Works effectively when images have a **blue background** and contain a mix of broken and unbroken grains without overlap.  
+- Delivers a complete end-to-end pipeline for **automated rice quality inspection**, improving efficiency and accuracy.
 
 
 
