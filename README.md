@@ -138,7 +138,7 @@ SQL, MySQL, DBMS, Data Cleaning
 • Visualized survival patterns using **bar plots, scatter plots, count plots, boxplots, and histograms**  
 • Analyzed survival trends based on **Passenger Class, Gender, Age, Family size, and Fare**  
 
-### 9. Sales Analysis & Forecasting using Power BI
+### [9. Sales Analysis & Forecasting using Power BI](https://github.com/tanujamannem/Sales-analysis-and-forecasting-using-powerBI)
 • Analyzed **Awesome Chocolates sales dataset** (regions, teams, product categories, monthly & quarterly metrics).  
 • Performed **data cleaning** and validation for accurate insights.  
 • Conducted **EDA** to uncover trends in sales by region, team, and product category.  
@@ -146,7 +146,3 @@ SQL, MySQL, DBMS, Data Cleaning
 • Forecasted **next 3 months’ sales** using historical data.  
 • Identified **top-performing teams, regions, and popular products**.  
 • Extracted **actionable insights** to optimize inventory, sales strategy, and predict demand.  
-
-
- 
-
