@@ -151,17 +151,9 @@ SQL, MySQL, DBMS, Data Cleaning
 
 ### 📫 Let's Connect
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="30" height="30" style="fill:#0A66C2"/>
-  </a>
-  <a href="https://github.com/your-github" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" alt="GitHub" width="30" height="30" style="fill:#181717"/>
-  </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail" width="30" height="30" style="fill:#D14836"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanuja-mannem-42ab92235/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_URL) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_ADDRESS)
 
 <p>
   📞 +91 7731911927 | 🌍 Bangalore, India
