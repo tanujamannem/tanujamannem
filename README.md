@@ -146,3 +146,22 @@ SQL, MySQL, DBMS, Data Cleaning
 • Forecasted **next 3 months’ sales** using historical data.  
 • Identified **top-performing teams, regions, and popular products**.  
 • Extracted **actionable insights** to optimize inventory, sales strategy, and predict demand.  
+
+---
+
+### 📫 Let's Connect
+[<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="30"/>](https://www.linkedin.com/in/your-linkedin)  
+[<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" alt="GitHub" width="30"/>](https://github.com/your-github)  
+[<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail" width="30"/>](mailto:your-email@gmail.com)  
+
+📞 **Contact:** +91 7731911927  
+🌍 **Location:** Bangalore, India  
+
+---
+
+### 💼 Skills
+- 🔹 **Organized** | **Adaptability** | **Critical Thinking**  
+- 🔹 **Teamwork** | **Communication**  
+- 🔹 **Problem-Solving** | **Attention to Detail** | **Leadership**  
+- 🔹 **Time Management** | **Strategic Thinking**  
+
