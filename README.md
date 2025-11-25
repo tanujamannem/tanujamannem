@@ -86,6 +86,13 @@ SQL, MySQL, DBMS, Data Cleaning
 • Provides **top 5 movie recommendations** for any input movie based on the highest similarity scores.  
 • Uses an **unsupervised learning approach**, discovering patterns and grouping movies without requiring labeled training data.
 
+### 3. Chennai House Price Prediction
+
+• Predicts **house prices in Chennai** using machine learning models based on features like location, total area, number of bedrooms, and amenities.  
+• Includes complete **data cleaning** such as handling missing values, fixing inconsistencies, and removing outliers for improved model accuracy.  
+• Performs **feature engineering** by encoding categorical variables and scaling numerical features to enhance model performance.  
+• Trains and evaluates **regression models** (Linear Regression / Random Forest) to learn pricing patterns from the dataset.  
+• Delivers **accurate price predictions** along with insights into important factors affecting property prices.  
 
 
 
