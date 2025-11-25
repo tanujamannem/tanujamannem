@@ -11,6 +11,8 @@ As a **data-driven problem solver**, I specialize in transforming raw data into 
 ## 🌟 About Me
 <img align="right" alt="Hi GIF" width="300" src="https://media.tenor.com/CigpzapemsoAAAAj/hi-robot.gif" />
 
+### 💼 Experience
+**Data Analyst** & Python Developer at **Daimler Truck Innovation Center India (DTICI)** with **2.3 years** of experience. Skilled in **Python, SQL, Power BI,** and **machine learning, building dashboards, automation tools,** and recommendation systems to turn data into actionable insights.
 
 ### 🎓 Education
 
@@ -40,11 +42,6 @@ Text Classification, Sentiment Analysis, Named Entity Recognition (NER)
 
 **Database:**  
 SQL, MySQL, DBMS, Data Cleaning  
-
-### 🛠️ Data Science & Visualization Tools
-
-Python • SQL • Power BI • Tableau • MS Excel • NumPy • Pandas • Google Colab • GitHub  
-TensorFlow • Scikit-learn • NLTK • SpaCy • Jupyter Notebook • VS Code • PyCharm
 
 ### 🛠️ Data Science & Visualization Tools
 
