@@ -78,6 +78,13 @@ SQL, MySQL, DBMS, Data Cleaning
 • Evaluated models using Confusion Matrix, Accuracy, and ROC Score, selecting the most effective model to guide business decisions.  
 • Implemented the workflow in **Python** using Pandas, Matplotlib, Seaborn, and Google Colab for data manipulation, visualization, and collaborative development.  
 
+### 2. Content-Based Movie Recommendation System  
+
+- Recommends movies similar to a given movie based on tags like genres, actors, and plot keywords.  
+- Uses **stemming** to reduce words to their root forms, avoiding repetitions and improving matching.  
+- Converts tags to numerical vectors and calculates **cosine similarity** to find similar movies.  
+- Outputs **top 5 similar movies** for any input movie.  
+- Unsupervised approach: finds patterns in data without labeled outcomes.
 
 
 
