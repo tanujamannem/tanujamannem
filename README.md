@@ -121,6 +121,16 @@ SQL, MySQL, DBMS, Data Cleaning
 • End-to-end workflow: **data cleaning → feature extraction → model building → evaluation → profanity masking**.  
 • Processes large datasets efficiently and outputs safe, cleaned text suitable for real-world applications.
 
+### 7. Amazon Best-Selling Books Analysis
+• Analyzed a structured **Amazon Best-Sellers dataset** with book details including title, author, ratings, reviews, price, year, and genre.  
+• Performed **data cleaning** and checked for missing values to ensure accuracy.  
+• Conducted **exploratory data analysis (EDA)** to uncover trends in ratings, reviews, and prices.  
+• Created visualizations using **Matplotlib, Seaborn, and Plotly** to analyze relationships between user ratings, reviews, and genre.  
+• Identified top-rated books and best-selling authors across **Fiction and Non-Fiction categories**.  
+• Generated **WordClouds** for authors to visualize frequent contributors.  
+• Extracted actionable insights about **popular books, genres, and market trends** on Amazon.  
+
+
 
 
 
