@@ -94,7 +94,7 @@ SQL, MySQL, DBMS, Data Cleaning
 • Trains and evaluates **regression models** (Linear Regression / Random Forest) to learn pricing patterns from the dataset.  
 • Delivers **accurate price predictions** along with insights into important factors affecting property prices.  
 
-### 4. Twitter Tweet Extraction, Cleaning & Sentiment Analysis
+### [4. Twitter Tweet Extraction, Cleaning & Sentiment Analysis](https://github.com/tanujamannem/Twitter_Tweets_Extraction_and_Sentiment_Analysis)
 
 - Converts raw Twitter JSON data into a structured **Pandas DataFrame**, capturing tweet authors, text, and essential metadata.  
 - Cleans tweets by removing **URLs, hashtags, mentions, emojis, punctuation**, and stopwords, ensuring high-quality text for NLP processing.  
